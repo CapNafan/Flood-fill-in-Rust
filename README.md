@@ -6,7 +6,7 @@ down(x,y-1)
 left (x-1,y)
 right (x+1,y)
 
-Cell with sum of digits of it's coordinates exceeds 25 are not allowed to be visited.
+Cells with sums of digits of it's coordinates exceeding 25 are not allowed to be visited.
 
 Example:
 cell (59, 79) is out of reach because 5+9+7+9=30
