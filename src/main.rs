@@ -1,3 +1,5 @@
+#![allow(unused)]
+
 extern crate queues;
 
 use queues::*;
